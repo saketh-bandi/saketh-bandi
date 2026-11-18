@@ -1,4 +1,4 @@
-## Open Source Contributions
+## Open Source 
 
 - **Nutanix — [libvfio-user](https://github.com/nutanix/libvfio-user)** — Fixed PCI capability registration after context realization and added regression tests for registration before and after realization. [Merged PR #891](https://github.com/nutanix/libvfio-user/pull/891)
 - **Arista Networks — [ANTA](https://github.com/aristanetworks/anta)** — Fixed duplicate command listings in a Python network-validation CLI while preserving command order and execution behavior. [PR #1821](https://github.com/aristanetworks/anta/pull/1821)
